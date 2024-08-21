@@ -4,4 +4,4 @@ It adds a textarea above the comment box.  This is *just* a textarea, so it won'
 
 This is new and slapped together quickly, so I can't promise it will work 100%, and I also can't promise that Trello won't change something that will break it.
 
-I tried to add this to Greasyfork, but they wouldn't allow it because it uses an "unapproved external script".
+You'll need to install an extension like Tampermonkey to get this to work.  I tried to add this to Greasyfork, but they wouldn't allow it because it uses an "unapproved external script".
